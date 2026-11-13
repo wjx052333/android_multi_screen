@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">四宫格播放器</string>
+    <string name="select_video">点击选择视频</string>
+    <string name="replace_video">更换视频</string>
+    <string name="close_video">关闭视频</string>
+    <string name="mute">静音</string>
+    <string name="unmute">开启声音</string>
+    <string name="forward_10s">快进10秒</string>
+    <string name="rewind_10s">快退10秒</string>
+    <string name="codec_error_msg">设备硬件解码器不足或视频格式不受支持</string>
+    <string name="retry">重试</string>
+</resources>
